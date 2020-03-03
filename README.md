@@ -184,18 +184,18 @@ The assets appearing in the game have the illustration-like textures noted above
 
 All 3D models are exported with the origin at 0 and with rotational values set for export into the Unity game engine. They are low poly, with poly count limits in place. 
 
-![Color Palette](https://github.com/rockretep/oddestsea/blob/master/documentation%20resources/palette.png)
+![Color Palette](https://github.com/Headlesser/oddestdocumentation/blob/master/documentation%20resources/palette.png)
 
 ## Visual Aesthetic
 The visuals present in the game are dark, but not dull. The theme of light and darkness is essential to provide the core experience in the game and support the vision; as such, the aesthetics reflect this. 
 
-![Environment Concept](https://github.com/rockretep/oddestsea/blob/master/documentation%20resources/environmentconcept1.png)
+![Environment Concept](https://github.com/Headlesser/oddestdocumentation/blob/master/documentation%20resources/environmentconcept1.png)
 
 To support the overall feeling of tense, lonely darkness that the player finds themselves in, the world is in a perpetual state of an evening on the edge of nightfall. The sky is dark and cloudy, with no light source via moon or stars to assist the player. The water is darker than the sky, and does not allow for anything below its surface to be seen. There is a constant layer of fog that hangs over the sea, providing the player with poor visibility. The vague outlines of the surrounding environment are just visible, providing the feeling that any distant object may in fact be an approaching monster. The overall darkness and visibility-inhibiting factors are key to invoking the emotion of traveling in the unknown. 
 
 To combat the darkness of the game, when light is present, it serves as a place of serenity and safety. Light in the game ranges from the yellow of the palette to pure white, standing out through the thick fog and dark drudgery of the environment. Small touches of ambient light (such as lichen among the rocks) give the hope of surviving and persevering through the foreboding shadows, but do not provide enough light to combat it. Sources of light which do hold the power to provide the duality of light and dark are visible from a long distance. They cast a halo of light around them. This is especially important for the lighthouse; the rotating beam is visible, no matter where the player is, not letting them lose sight of their goal. 
 
-![Lighthouse Concept](https://github.com/rockretep/oddestsea/blob/master/documentation%20resources/lighthouseconcept.png)
+![Lighthouse Concept](https://github.com/Headlesser/oddestdocumentation/blob/master/documentation%20resources/lighthouseconcept.png)
 
 The environment acts as a method of informing the player with details as to what lives in this world they are in, and to assist in providing the tense feeling of being pursued and the isolation of their situation. The boat the player pilots is smaller than the threats they face, contributing to the fear of the lurking monsters. Large skulls and bones suggest that even monsters on a massive scale have a predator, making the player feel even smaller. Sharp rocks and large structures mimic the shape of monsters in the darkness. Shipwrecks tell the story of those previous who did not make it to the end of their journey. Shells and coral harbor homes for monsters to wander. 
 
