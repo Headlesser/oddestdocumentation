@@ -160,19 +160,6 @@ Monsters affect the player’s sailing in various detrimental ways and are to av
   * While idle, the Shark will move back and forth between two points at an arbitrary speed, with a brief 2~ second pause between movements. The Shark's movements should overall be predictable so the player can make the choice of when to try and sneak past.
   * When spotting the player, the Shark will roar, shaking the screen and letting the player know that a chase has begun. While pursuing, the Shark will dart towards the player in a straight line at a slightly faster speed than the player's maximum speed. After reaching the player's last known position, if the player is not hit, the Shark will pause for 3~ seconds, and if the player is still in range, it will repeat the process. If the player is hit, the Shark will end the pursuit and return to idling.
 
-### Eel
-
-* Length of Encounter
-  * 1-3 minutes.
-* Experience
-  * While the Eel has sighted the player and is pursuing, the player feels panicked, like a flight or fight response. They feel like they need to escape the area immediately and as quickly as possible.
-
-* Visuals
-  * The Eel is the largest monster that can be found in the game. Visually, they are represented by a 3D serpentine model where the arches of its body can be seen above water, while the rest remains below the surface. While actively pursuing, it will move in a serpentine pattern, swaying back and forth.
-
-* Mechanics
-  * If the player is spotted by an Eel, the Eel will let out a massive roar, which will immediately extinguish the light of all Buoy’s within an arbitrary range. After roaring, the Eel will submerge itself in the water. A spot in front of the player is chosen randomly and bubbles will appear, signaling that the eel is lurking underneath. If the player sails into these bubbles, the eel will spring from underneath, killing the player. If the player avoids the Eel’s trap, the Eel will reemerge after 3~ seconds, and chase the player if it is within an arbitrary of the Eel. If the player is not within range, it will re-submerge and repeat the process. The Eel, like the Shark, only abandons the chase if the player safely arrives at a buoy or somehow outruns it.
-
 ## Light
 Light serves as a visual representation of the player’s health. The player’s boat has a collection of three 'wisps' of light that float around it. Each wisp is representative of 1 hp, for a total of 3. If the player sustains damage by a monster, one of the wisps will disappear. To regain health, players must visit buoys, which restore 1 hp per visit. If the player takes 3 points of damage without visiting a buoy, they lose the game.
 
